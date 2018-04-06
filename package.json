@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "starwars-names-npm",
   "version": "1.0.0",
   "description": "Get random Star Wars names",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emiralpseniz/starwars-names.git"
+    "url": "git+https://github.com/emiralpseniz/starwars-names-npm.git"
   },
   "keywords": [
     "random",
@@ -18,9 +18,9 @@
   "author": "Emir Alp Seniz <emiralpseniz@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emiralpseniz/starwars-names/issues"
+    "url": "https://github.com/emiralpseniz/starwars-names-npm/issues"
   },
-  "homepage": "https://github.com/emiralpseniz/starwars-names#readme",
+  "homepage": "https://github.com/emiralpseniz/starwars-names-npm#readme",
   "dependencies": {
     "unique-random-array": "1.0.1"
   }
