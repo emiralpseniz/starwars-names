@@ -6,6 +6,7 @@
   "scripts": {
     "commit": "git-cz",
     "test": "mocha src/index.test.js",
+    "test:watch": "mocha src/index.test.js -w",
     "semantic-release": "semantic-release",
     "travis-deploy-once": "travis-deploy-once"
   },
